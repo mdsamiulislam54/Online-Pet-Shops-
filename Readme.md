@@ -1,5 +1,5 @@
 # Desktop version.............
-![images](./desktop-2.png)
+![images](./assets/desktop-2.png)
 
 # Mobill version.............
-![images](./desktop.png)
+![images](./assets/desktop.png)
